@@ -1,0 +1,22 @@
+.google-fonts {
+  /*ここにGoogle Fontsを指定します*/
+  font-family: 'Noto Serif JP', serif;
+}
+body {
+  font-family: "Arial", "Meiryo", sans-serif;
+  text-align: center;
+}
+h1 {
+  letter-spacing:  1.2rem;
+  border-bottom: solid 3px rgb(115, 115, 114);
+  text-shadow: 1px 1px 2px gray;
+}
+#basic p {
+  font-weight: bold;
+}
+.text-pink {
+  color: pink;
+}
+.text-skybule {
+  color: skyblue;
+}
